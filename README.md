@@ -58,6 +58,9 @@ The goal of this analysis is to identify key drivers of revenue, understand regi
 ##  Repository Structure
 
 ── data/                  # SQL scripts & raw datasets (demographics, sales, channels)
+
 ── dashboards/            # Power BI (.pbix) report file and interactive exports
+
 ── screenshots/           # High-resolution dashboard page screenshots
+
 ── README.md              # Project documentation
