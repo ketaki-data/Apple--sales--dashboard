@@ -51,13 +51,13 @@ The goal of this analysis is to identify key drivers of revenue, understand regi
 ##  Tools & Technologies
 * **Power BI Desktop:** Multi-page dashboard development, Decomposition Trees, Donut Charts, Geo-Maps, and interactive slicers.
 * **DAX (Data Analysis Expressions):** Calculated KPIs, Average Selling Price (ASP), revenue segmentation, and time-intelligence metrics.
-* **SQL:** Initial data extraction, cleaning, and customer segment transformation.
+* **Python:** Initial data extraction, cleaning, and customer segment transformation.
 
 ---
 
 ##  Repository Structure
 
-── data/                  # SQL scripts & raw datasets (demographics, sales, channels)
+── data/                  # Python scripts & raw datasets (demographics, sales, channels)
 
 ── dashboards/            # Power BI (.pbix) report file and interactive exports
 
