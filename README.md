@@ -64,3 +64,31 @@ The goal of this analysis is to identify key drivers of revenue, understand regi
 ── screenshots/           # High-resolution dashboard page screenshots
 
 ── README.md              # Project documentation
+
+
+**Screenshot of the dashboard **
+
+-> Page 1 showing - Global revenue distribution, Top 5 revenue generating countries, Quarterly revenue trend by product category and key insights. 
+
+<img width="1288" height="717" alt="image" src="https://github.com/user-attachments/assets/0ca91ba2-13bf-4bbd-bef0-6a901fa64228" />
+
+
+-> Page 2 showing - product & market insights, regional and product demands. 
+
+<img width="1287" height="722" alt="Screenshot 2026-07-21 203834" src="https://github.com/user-attachments/assets/5aa406e6-2d91-48dd-9b49-7a7328052578" />
+
+
+-> Page 3 showing - sales strategy & revenue drivers, analyzing how sales channels, pricing strategies, and product mix drive revenue.
+
+<img width="1285" height="721" alt="Screenshot 2026-07-21 204034" src="https://github.com/user-attachments/assets/133ece71-c372-488b-9ccd-6c0267cff3c4" />
+
+
+-> Page 4 showing - customer behaviour & market insights, understanding customer segments, demographics and market performance.
+
+<img width="1285" height="722" alt="Screenshot 2026-07-21 204145" src="https://github.com/user-attachments/assets/956178d9-7c45-490b-8922-98ea36b8fcd3" />
+
+
+
+
+
+
