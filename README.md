@@ -66,7 +66,11 @@ The goal of this analysis is to identify key drivers of revenue, understand regi
 ── README.md              # Project documentation
 
 
-**Screenshot of the dashboard **
+
+
+Screenshot of the dashboard
+
+
 
 -> Page 1 showing - Global revenue distribution, Top 5 revenue generating countries, Quarterly revenue trend by product category and key insights. 
 
