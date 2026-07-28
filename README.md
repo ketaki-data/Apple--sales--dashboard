@@ -7,6 +7,20 @@ The goal of this analysis is to identify key drivers of revenue, understand regi
 
 ---
 
+Key Business Questions Answered in the dashboard
+
+1. Revenue by Country / City — Which markets drive iPhone revenue the most? 
+2.	Category Mix by Region — iPhone dominance in Asia vs Mac in Europe 
+3.	Channel Performance — Apple Store vs Online vs Resellers by country 
+4.	Discount Impact — Does discounting drive higher volumes and revenue? 
+5.	Seasonality (Q4 surge) — Holiday effect across product lines and regions 
+6.	Currency Analysis — Revenue comparison normalised to USD
+7.	Customer Segmentation — Individual vs Business vs Education buyers 
+8.	Return Rate — Which product/country combos have highest returns? 
+9.	OS Switching — What % of iPhone buyers switched from Android?
+10.	Age Group Preferences — Which demographics favour which product categories?
+    
+
 ##  Key Executive KPIs
 * **Total Revenue:** **$18.04M**
 * **Total Units Sold:** **23K units**
